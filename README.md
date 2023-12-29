@@ -1,6 +1,7 @@
 # MPX1
 
 Lexicon MPX1 is a wonderful sounding device, but it breaks fingers if you try to edit something. So I tried to help with that. It's my second beast. Has taken some time. 
+This is for Firmware Version 1.1
 
 Use it on your own risk. I'm not responsible for anything!
 
