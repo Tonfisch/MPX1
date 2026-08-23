@@ -5,15 +5,13 @@ This is for Firmware Version 1.1
 
 Use it on your own risk. I'm not responsible for anything!
 
-<img src="screenshots/main_window.png">
+<img width="1225" height="1096" alt="grafik" src="https://github.com/user-attachments/assets/e4f839c5-92d3-4add-8081-6d906142ff49" />
 
-## Screenshots
-Please see [Screenshots](screenshots/screenshots.md)
+
 
 ## Known bugs
 - more than I'd like ...
-- While you can save to user programs, do not attempt to load an empty user program, else CTRLR will crash. The best workaround for this is to overwrite all empty programs with a dummy program. I do not have a code-based solution to this yet.
-- and some more (-;
+
 
 ## Credits
 - Made with CTRLR 5.3.201 (uses JUCE)
